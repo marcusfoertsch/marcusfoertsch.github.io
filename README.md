@@ -1,3 +1,5 @@
 ![Home](https://marcusfoertsch.github.io/CashSheetHome.png)
 ![Report](https://marcusfoertsch.github.io/CashSheetReport.png)
 ![Modal](https://marcusfoertsch.github.io/CashSheetModal.png)
+![Responsive](https://marcusfoertsch.github.io/CashSheetReport-Responsive.png)
+![Sidebar](https://marcusfoertsch.github.io/CashSheetReport-ResponsiveSidebar.png)
